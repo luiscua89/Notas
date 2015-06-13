@@ -14,6 +14,7 @@
 		6AF1B3281B2C6D0400AA941C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AF1B3271B2C6D0400AA941C /* Images.xcassets */; };
 		6AF1B32B1B2C6D0400AA941C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6AF1B3291B2C6D0400AA941C /* LaunchScreen.xib */; };
 		6AF1B3371B2C6D0400AA941C /* MisNotasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF1B3361B2C6D0400AA941C /* MisNotasTests.swift */; };
+		6AF1B3411B2C6DEE00AA941C /* administradorNotas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF1B3401B2C6DEE00AA941C /* administradorNotas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		6AF1B3301B2C6D0400AA941C /* MisNotasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MisNotasTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AF1B3351B2C6D0400AA941C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6AF1B3361B2C6D0400AA941C /* MisNotasTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MisNotasTests.swift; sourceTree = "<group>"; };
+		6AF1B3401B2C6DEE00AA941C /* administradorNotas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = administradorNotas.swift; path = ../administradorNotas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				6AF1B31E1B2C6D0400AA941C /* AppDelegate.swift */,
 				6AF1B3201B2C6D0400AA941C /* FirstViewController.swift */,
 				6AF1B3221B2C6D0400AA941C /* SecondViewController.swift */,
+				6AF1B3401B2C6DEE00AA941C /* administradorNotas.swift */,
 				6AF1B3241B2C6D0400AA941C /* Main.storyboard */,
 				6AF1B3271B2C6D0400AA941C /* Images.xcassets */,
 				6AF1B3291B2C6D0400AA941C /* LaunchScreen.xib */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AF1B3231B2C6D0400AA941C /* SecondViewController.swift in Sources */,
+				6AF1B3411B2C6DEE00AA941C /* administradorNotas.swift in Sources */,
 				6AF1B31F1B2C6D0400AA941C /* AppDelegate.swift in Sources */,
 				6AF1B3211B2C6D0400AA941C /* FirstViewController.swift in Sources */,
 			);
